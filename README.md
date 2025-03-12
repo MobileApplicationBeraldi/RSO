@@ -5,8 +5,11 @@ PER INSTALLARE WSL DA POWER SHELL: wsl --install
 
 PER INSTALLARE PYTHON (SE NON INSTALLATO GIA'),PIP3 ED IDLE:
 sudo apt update && sudo apt upgrade -y
+
 sudo apt install python3 -y
+
 sudo apt install python3-pip -y
+
 sudo apt update && sudo apt install idle3
 
 PER LANCIARE ALTRA SHELL
